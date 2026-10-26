@@ -1,6 +1,6 @@
 ---
 name: paaq-dzyh
-version: "2026.09.22"
+version: "2026.10.26"
 sort: by_weight
 ...
 啊	q'aj*ʔˤaj‼️阿
@@ -9,7 +9,7 @@ sort: by_weight
 嗄	s'rajh*sˤrajh❗️沙
 哎	ng'as*ŋˤas❗️艾
 矮	q'rajq*ʔˤrajʔ❗️
-癌	ng’rym*ŋˤrəm❗️碞
+癌	ng'rym*ŋˤrəm❗️碞
 砹	ng'as*ŋˤas❗️艾
 嬡	q'ys*ʔˤəs❗️愛
 靉	q'ys*ʔˤəs❗️愛
@@ -423,7 +423,7 @@ sort: by_weight
 鏑	t'ek*tˤek❗️滴
 玓	t'ewk*tˤewk❗️的
 菂	t'ewk*tˤewk‼️的
-頔	l'iwk*lˤiwk❗️迪
+頔	l'uk*lˤuk❗️迪
 頔	khwengq*kʰweŋʔ❗️頃
 媂	t'eh*tˤeh‼️帝
 𤧛	t'eh*tˤeh‼️帝
@@ -547,7 +547,7 @@ sort: by_weight
 醱	pat*pat‼️發
 醱	ph'at*pʰˤat‼️鏺
 釩	bam*bam‼️凡
-畈	palh*parh❗️販
+畈	panh*panh❗️販
 梵	bamh*bamh❗️凡
 梵	bym*bəm❗️芃
 鐇	bal*bar❗️蕃
@@ -737,7 +737,6 @@ sort: by_weight
 垎	g'rak*gˤrak❗️格
 𬌗	g'yp*gˤəp‼️合
 𨭆	mh'yk*m̥ˤək‼️黑
-痕	g'yn*gˤən❗️鞎
 詪	k'ynq*kˤənʔ❗️䫀
 詪	k'ynh*kˤənh❗️艮
 詪	g'enq*gˤenʔ❗️
@@ -1521,8 +1520,6 @@ sort: by_weight
 硼	b'yng*bˤəŋ‼️朋
 嘭	b'rang*bˤraŋ‼️彭
 蟛	b'rang*bˤraŋ❗️彭
-弸	b'ryng*bˤrəŋ❗️棚
-弸	ph'ryng*pʰˤrəŋ❗️
 啤	be*be‼️郫
 劈	ph'ek*pʰˤek❗️霹
 砒	ph'i*pʰˤi‼️
@@ -1532,7 +1529,6 @@ sort: by_weight
 噼	phek*pʰek❗️辟
 苉	phik*pʰik‼️匹
 狉	ph'y*pʰˤə‼️胚
-鸊	phek*pʰek‼️辟
 騙	phenh*pʰenh❗️偏
 犏	phen*pʰen‼️偏
 𡎚	phenq*pʰenʔ‼️
@@ -1756,7 +1752,7 @@ sort: by_weight
 畲	lha*l̥a❗️賒
 輋	lha*l̥a‼️畲賒
 灄	nhep*n̥ep❗️攝
-嬸	stumq*stumʔ❗️審
+嬸	stymq*stəmʔ❗️審
 胂	lhyn*l̥ən❗️申
 胂	lhryn*l̥rən❗️申
 砷	lhyn*l̥ən‼️申
@@ -2713,4 +2709,5 @@ sort: by_weight
 攲	khre*kʰre❗️欹
 鈕	nruq*nruʔ❗️紐
 紨	pho*pʰo❗️泭
-艖	dzaj*dzˤaj❗️差
+艖	dz'aj*dzˤaj❗️差
+擺	p'rajq*pˤrajʔ❗️罷
